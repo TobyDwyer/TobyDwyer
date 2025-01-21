@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TobyDwyer
-- 🌱 I’m currently learning BCAD in Univerity
-- 📫 How to reach me Tobydywer2209@gmail.com
+- 🌱 I’m currently working as a frontend developer
+- 📫 How to reach me tobydywer2209@gmail.com
 
 <!---
 TobyDwyer/TobyDwyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
