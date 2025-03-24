@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TobyDwyer
-- 🌱 I’m currently working as a frontend developer
+- 🌱 I’m currently working as a fullstack developer
 - 📫 How to reach me tobydwyer2209@gmail.com
 
 <!---
